@@ -1,0 +1,9 @@
+{
+  "name": "FitTrack Fitness",
+  "short_name": "FitTrack",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08111d",
+  "theme_color": "#08111d",
+  "icons": []
+}
